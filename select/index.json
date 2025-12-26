@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "NEMONEMO",
+  "base_artist": "YENA",
+  "createdAt": "2025-12-26T01:48:11.511706Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "NEMONEMO",
+      "artist": "Yena",
+      "has_synced": true,
+      "path": "select/01_NEMONEMO_Yena.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Nemonemo",
+      "artist": "Yena",
+      "has_synced": true,
+      "path": "select/02_Nemonemo_Yena.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "NEMONEMO",
+      "artist": "YENA",
+      "has_synced": false,
+      "path": "select/pl_01_NEMONEMO_YENA.txt"
+    }
+  ]
+}
